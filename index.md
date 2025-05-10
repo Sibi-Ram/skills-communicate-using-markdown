@@ -14,6 +14,7 @@
 
 ```
 $ git status
-
+```
+``` javascript
 console.log("Learning GitHub");
 ```
