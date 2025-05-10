@@ -11,3 +11,9 @@
 ###### MArkdown File
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+```
+$ git status
+
+console.log("Learning GitHub");
+```
