@@ -18,3 +18,7 @@ $ git status
 ``` javascript
 console.log("Learning GitHub");
 ```
+
+-[ ] Turn on GitHub Pages
+-[ ] Outline my portfolio
+-[ ] Introduce Myself to the World
