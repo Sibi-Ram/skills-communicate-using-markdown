@@ -19,6 +19,6 @@ $ git status
 console.log("Learning GitHub");
 ```
 
--[ ] Turn on GitHub Pages
--[ ] Outline my portfolio
--[ ] Introduce Myself to the World
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce Myself to the World
